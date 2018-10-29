@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74a8a3a-8607-41b2-82a3-35e5ef137631" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Prova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Prova.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Somatorio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Somatorio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/Exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/01_Uso do FOR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/Exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/02_Uso do FOR2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/Exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/03_Uso do FOR3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/Exercise83.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/Exercise83.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/Exercise91.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/Exercise91.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/UrnaEletronica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/UrnaEletronica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vanderlene/exercise71.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vanderlene/Exercise71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Maior Número.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Função Enigma 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_João Carlos OR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Função Enigma 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Posição que você deseja imprimir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Lista 10 posições.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Valor X.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Lista de Números.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Zodíaco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ATM_N03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ATM_N03.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conversor de Dolar para Real.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conversor de Real para Dolar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Par ou Ímpar .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Potência.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prestação.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sequência de Fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sequência de Números Impares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomaDosQuadrados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomaQ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Somatorio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VendaDesconto.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,51 +36,109 @@
     <session id="1842329560">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="93" />
-          <entry key="py" value="758" />
+          <entry key="dummy" value="263" />
+          <entry key="py" value="1146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="93" />
-          <entry key="Python" value="758" />
+          <entry key="PLAIN_TEXT" value="263" />
+          <entry key="Python" value="1146" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Somatorio.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12_Maior Número.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DolarReal.py">
+        <entry file="file://$PROJECT_DIR$/13_Função Enigma 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_João Carlos OR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15_Função Enigma 3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16_Posição que você deseja imprimir.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_Lista 10 posições.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18_Valor X.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20_Zodíaco.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -102,16 +172,25 @@
         <option value="$PROJECT_DIR$/SPAM.py" />
         <option value="$PROJECT_DIR$/SomaImpares.py" />
         <option value="$PROJECT_DIR$/VendaDesconto.py" />
-        <option value="$PROJECT_DIR$/Teste.py" />
         <option value="$PROJECT_DIR$/Somatorio.py" />
+        <option value="$PROJECT_DIR$/Teste.py" />
+        <option value="$PROJECT_DIR$/12_Maior Número.py" />
+        <option value="$PROJECT_DIR$/13_Função Enigma 1.py" />
+        <option value="$PROJECT_DIR$/14_João Carlos OR.py" />
+        <option value="$PROJECT_DIR$/15_Função Enigma 3.py" />
+        <option value="$PROJECT_DIR$/16_SPAM.py" />
+        <option value="$PROJECT_DIR$/17_Par.py" />
+        <option value="$PROJECT_DIR$/18_Valor X.py" />
+        <option value="$PROJECT_DIR$/19_Lista de Números.py" />
+        <option value="$PROJECT_DIR$/20_Zodíaco.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="667" />
+    <option name="y" value="59" />
+    <option name="width" value="638" />
+    <option name="height" value="552" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,92 +217,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Somatorio">
-    <configuration name="Exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Vanderlene" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Vanderlene" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Git\GitHub\Vanderlene\01_Uso do FOR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Vanderlene" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Vanderlene" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Git\GitHub\Vanderlene\02_Uso do FOR2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Vanderlene" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Vanderlene" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Git\GitHub\Vanderlene\03_Uso do FOR3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Vanderlene" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Vanderlene" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Vanderlene/Exercise04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Somatorio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.20_Zodíaco">
+    <configuration name="16_SPAM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Prova" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +230,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Somatorio.py" />
+      <option name="SCRIPT_NAME" value="C:\Git\GitHub\Prova\16_Posição que você deseja imprimir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17_Par" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Git\GitHub\Prova\17_Lista 10 posições.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18_Valor X" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_Valor X.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19_Lista de Números" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19_Lista de Números.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20_Zodíaco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_Zodíaco.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,19 +324,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Exercise01" />
-      <item itemvalue="Python.Exercise02" />
-      <item itemvalue="Python.Exercise03" />
-      <item itemvalue="Python.Exercise04" />
-      <item itemvalue="Python.Somatorio" />
+      <item itemvalue="Python.16_SPAM" />
+      <item itemvalue="Python.17_Par" />
+      <item itemvalue="Python.18_Valor X" />
+      <item itemvalue="Python.19_Lista de Números" />
+      <item itemvalue="Python.20_Zodíaco" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Somatorio" />
-        <item itemvalue="Python.Exercise04" />
-        <item itemvalue="Python.Exercise03" />
-        <item itemvalue="Python.Exercise02" />
-        <item itemvalue="Python.Exercise01" />
+        <item itemvalue="Python.20_Zodíaco" />
+        <item itemvalue="Python.19_Lista de Números" />
+        <item itemvalue="Python.18_Valor X" />
+        <item itemvalue="Python.17_Par" />
+        <item itemvalue="Python.16_SPAM" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +362,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34262297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35573772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,61 +383,30 @@
     <entry file="file://$PROJECT_DIR$/../Vanderlene/Exercise91.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fobonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/SomaDosQuadrados.py" />
+    <entry file="file://$PROJECT_DIR$/SomaQ.py" />
+    <entry file="file://$PROJECT_DIR$/Potência.py" />
+    <entry file="file://$PROJECT_DIR$/Prestação.py" />
+    <entry file="file://$PROJECT_DIR$/../Vanderlene/01_Uso do FOR.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SomaDosQuadrados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Vanderlene/02_Uso do FOR2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/RealDolar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Vanderlene/Exercise04.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SomaQ.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Vanderlene/03_Uso do FOR3.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Potência.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prestação.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParOuImpar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SomaImpares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Sequência de Fibonacci.py" />
+    <entry file="file://$PROJECT_DIR$/Sequência de Números Impares.py" />
+    <entry file="file://$PROJECT_DIR$/Somatorio.py" />
+    <entry file="file://$PROJECT_DIR$/Par ou Ímpar .py" />
+    <entry file="file://$PROJECT_DIR$/Conversor de Dolar para Real.py" />
+    <entry file="file://$PROJECT_DIR$/Conversor de Real para Dolar.py" />
+    <entry file="file://$PROJECT_DIR$/03_Prestação em atraso.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/VendaDesconto.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -367,36 +415,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teste.py">
+    <entry file="file://$PROJECT_DIR$/12_Maior Número.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Vanderlene/01_Uso do FOR.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Vanderlene/02_Uso do FOR2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DolarReal.py">
+    <entry file="file://$PROJECT_DIR$/14_João Carlos OR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        <state relative-caret-position="214">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Vanderlene/Exercise04.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Vanderlene/03_Uso do FOR3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Somatorio.py">
+    <entry file="file://$PROJECT_DIR$/13_Função Enigma 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Função Enigma 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Posição que você deseja imprimir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_Lista 10 posições.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_Valor X.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_Lista de Números.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_Zodíaco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
