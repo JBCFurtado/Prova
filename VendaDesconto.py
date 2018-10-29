@@ -9,7 +9,7 @@ def produto(Qa, Qb):
         if Qa != 0 and Qb != 0:
             a = Qa * 10 - ((Qa * 10) * 0.15)
             b = Qb * 20 - ((Qb * 20) * 0.15)
-    return(a + b)
+    return a + b
 a = int(input('Digite o valor do produto A: '))
 b = int(input('Digite o valor do produto B: '))
 print('Total a pagar =', produto(a, b))
